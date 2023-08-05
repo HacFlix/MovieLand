@@ -20,7 +20,8 @@ Before running the application, you need to have Node.js and npm (Node Package M
 1. Clone the repository:
    ```
    git clone https://github.com/HacFlix/MovieLand.git
-    cd movie-search-app  ```
+    cd movie-search-app
+   ```
 
 2. Install dependencies:
    ```
